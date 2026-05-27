@@ -23,4 +23,7 @@ Para garantizar la transparencia y el rigor metodológico de la búsqueda de inf
 * **Criterio de Inclusión:** Artículos científicos y de conferencia que aborden la optimización, kernels o aplicaciones de SVM en entornos de datos complejos.
 
 
+
+
+Notebook con los artículos (Se irá aumentando con el progreso de los días)
 <img width="1888" height="896" alt="image" src="https://github.com/user-attachments/assets/ee09fd53-7444-4ea3-a97f-49557d0ce4f8" />
