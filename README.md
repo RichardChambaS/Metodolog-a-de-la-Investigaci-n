@@ -21,3 +21,6 @@ Para garantizar la transparencia y el rigor metodológico de la búsqueda de inf
 * **Técnica Evaluada:** Máquinas de Soporte Vectorial (SVM).
 * **Fuentes de Datos:** Scopus e IEEE Xplore.
 * **Criterio de Inclusión:** Artículos científicos y de conferencia que aborden la optimización, kernels o aplicaciones de SVM en entornos de datos complejos.
+
+
+<img width="1888" height="896" alt="image" src="https://github.com/user-attachments/assets/ee09fd53-7444-4ea3-a97f-49557d0ce4f8" />
